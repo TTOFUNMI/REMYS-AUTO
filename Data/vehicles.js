@@ -1,6 +1,6 @@
 const VehiclesArray = [
     {
-        Image: "image/BMW X6 2021.jpg",
+        Image: "public/image/BMW X6 2021.jpg",
         Carname: "BMW X6",
         Year: "2021",
         Price: "₦145,000,000",
@@ -12,7 +12,7 @@ const VehiclesArray = [
         ]
     },
     {
-        Image: "image/changan uni V 2024.jpg",
+        Image: "public/image/changan uni V 2024.jpg",
         Carname: "Changan uni V",
         Year: "2024",
         Price: "₦42,000,000",
@@ -25,7 +25,7 @@ const VehiclesArray = [
         ]
     },
     {
-        Image: "image/ford explore 2016.jpg",
+        Image: "public/image/ford explore 2016.jpg",
         Carname: "Ford explorer",
         Year: "2016",
         Price: "₦38,000,000",
@@ -39,7 +39,7 @@ const VehiclesArray = [
     },
 
     {
-        Image: "image/gle 63s.jpg",
+        Image: "public/image/gle 63s.jpg",
         Carname: "Gle 63s",
         Year: "2023",
         Price: "₦250,000,000",
@@ -52,7 +52,7 @@ const VehiclesArray = [
         ]
     },
     {
-        Image: "image/landcruiser 2025.jpg",
+        Image: "public/image/landcruiser 2025.jpg",
         Carname: "Landcruiser",
         Year: "2025",
         Price: "₦420,000,000",
@@ -65,7 +65,7 @@ const VehiclesArray = [
         ]
     },
     {
-        Image: "image/lexus rx350 2025.jpg",
+        Image: "public/image/lexus rx350 2025.jpg",
         Carname: "Lexus rx350",
         Year: "2025",
         Price: "₦180,000,000",
@@ -78,7 +78,7 @@ const VehiclesArray = [
         ]
     },
     {
-        Image: "image/mercedes bens gls 600.jpg",
+        Image: "public/image/mercedes bens gls 600.jpg",
         Carname: "Mercedes benz gls 600",
         Year: "2022",
         Price: "₦450,000,000",
@@ -91,7 +91,7 @@ const VehiclesArray = [
         ]
     },
     {
-        Image: "image/mercedes benz c450 2016.jpg",
+        Image: "public/image/mercedes benz c450 2016.jpg",
         Carname: "Mercedes benz c450",
         Year: "2016",
         Price: "₦45,000,000",
@@ -104,7 +104,7 @@ const VehiclesArray = [
         ]
     },
     {
-        Image: "image/toyota camry 2021.jpg",
+        Image: "public/image/toyota camry 2021.jpg",
         Carname: "Toyota camry",
         Year: "2021",
         Price: "₦55,000,000",
@@ -117,7 +117,7 @@ const VehiclesArray = [
         ]
     },
     {
-        Image: "image/toyota corolla 2024.jpg",
+        Image: "public/image/toyota corolla 2024.jpg",
         Carname: "Toyota corolla",
         Year: "2024",
         Price: "₦48,000,000",
@@ -130,7 +130,7 @@ const VehiclesArray = [
         ]
     },
     {
-        Image: "image/TOYOTA venza.jpg",
+        Image: "public/image/TOYOTA venza.jpg",
         Carname: "Toyota venza",
         Year: "2014",
         Price: "₦28,000,000",
@@ -142,19 +142,6 @@ const VehiclesArray = [
             "Bluetooth connectivity"
         ]
     },
-    {
-        Image: "image/TOYOTA venza.jpg",
-        Carname: "Toyota venza",
-        Year: "2014",
-        Price: "₦28,000,000",
-        features: [
-            "Spacious interior",
-            "Reverse camera",
-            "Leather seats",
-            "Power tailgate",
-            "Bluetooth connectivity"
-        ]
-    }
 ]
 
 export default VehiclesArray;
